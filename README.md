@@ -18,4 +18,4 @@ Plan for the next week is.
 2) Decide on API frame work.
 3) Upload STL's for Pi3 and Pi5 cases.
 
-We will be using AI for the software side of things, we are living in the real world and it is a massive productivity multiplier.
+We will be using AI for the software side of things, we are living in the real world and it is a massive productivity multiplier primarily as a really good search for discussing API usage secondary as IDE interface. We will be using Visual studio code and a self hosted LLM mainly as an additional learning opportunity and because we really don't want to spend any money doing this :).  
